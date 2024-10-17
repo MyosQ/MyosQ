@@ -5,6 +5,6 @@
     <a href="mailto:frejsundqvist@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-darkblue?logo=protonmail"></a>
 </p>
 
-- 🔭 I’m currently working at Capia AS
+- 🔭 I’m currently working at KSAT
 - 📫 How to reach me: [Email](mailto:frejsundqvist@protonmail.com)
 
